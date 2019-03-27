@@ -1,5 +1,8 @@
 # Pet-Adoption
-Project Proposal - 2/23/19
+
+
+#Project Proposal 
+2/23/19
 
 Domain chosen:
 Our domain is animal welfare. Millions of abandoned or lost animals end up in shelters. Many shelters are overcrowded, and some euthanize animals that aren’t adopted quickly. Studying adoption data may help shelters and rescue organizations connect with potential adopting homes more effectively, reducing needless animal suffering. 
