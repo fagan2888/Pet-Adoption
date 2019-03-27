@@ -44,7 +44,7 @@ Questions or avenues of exploration required for the project:
 ------
 
 
-Karen's - Initial Commentary on Project Plan - 2/28/19
+Karen's Initial Commentary on Project Plan - 2/28/19
 
 Thank you for you well-defined problem and topic! I think this dataset can help your team learn all the concepts while you work on something interesting (and fun!). You already have a good plan and you can give me more information in your next deliverable. 
 
