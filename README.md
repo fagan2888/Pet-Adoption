@@ -1,22 +1,20 @@
 # Pet-Adoption
-Fred's repo for the Pet Adoption Capstone Project
+Project Proposal - 2/23/19
 
+Domain chosen:
+Our domain is animal welfare. Millions of abandoned or lost animals end up in shelters. Many shelters are overcrowded, and some euthanize animals that aren’t adopted quickly. Studying adoption data may help shelters and rescue organizations connect with potential adopting homes more effectively, reducing needless animal suffering. 
+
+Hypothesis or project topic:
+An algorithm can be made to predict animal adoption rates from traits in the animal’s online profile. These traits may include breed, color, gender, health, the quality of images, and the quality of descriptive text.
 
 Our main data source is a dataset available at Kaggle.com on animal shelter records. Here are the tables we intend to use:
-   
-   train.csv - Tabular/text data for the training set
-   
+   train.csv - Tabular/text data for the training set 
    test.csv - Tabular/text data for the test set
-   
    breed_labels.csv – Data dictionary on breed
-   
    color_labels.csv - Data dictionary on color
-   
    state_labels.csv - Data dictionary on location
- 
- -----
-    
-A brief description of what you will do
+  
+Project Description:
   1. First, we will perform a data quality check and EDA on training and testing data, for
   example: analyzing missing values, summary statistics, data visualizations, scatter plots,
   and a correlation matrix. We may apply data manipulation depending on the quality of
@@ -33,7 +31,16 @@ A brief description of what you will do
   4. If necessary, we will return to the first step and consider new traits to measure and model
   then repeat this process.
 
+Questions or avenues of exploration required for the project:
+- What profile traits should we include in our model? 
+- Which traits have the most statistically useful records in the Kaggle tables?
+- Considering these traits, which might suggest actions that could be taken to improve how animals are adopted?
+- What may be the best classification model in our case?  K - nearest neighbor? Decision trees? Support Vector machines?
+- After our best model have been created, how can we utilize the model or present it in a way that could be easily used by shelters and rescue organizations?
+
+
 ------
+
 
 Karen B - Initial Commentary on Project Plan - 2/28/19
 
