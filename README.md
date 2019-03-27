@@ -89,3 +89,21 @@ Attached are some examples of the analyses we briefly discussed during lunch bre
 4. correlation matrix on all variables, including Y and all Xi, see example Image-8_correl-mat.png
 
 Once we have some preliminary results on all those, we can group and discuss for the next step.
+
+---
+
+Yuwen "Next Steps" - 3/23/19
+
+In case any of you have time to do a bit further exploration before our meeting at noon, here is a preliminary list of things for the next step exploration. I will continue checking the results and more to come. 
+
+1. all the categorical variables need freq table: type, gender, color, MaturitySize, FurLength,Vaccinated, state, VideoAmt, PhotoAmt, AdoptionSpeed, Quantity
+2. may consider to group breed variable. Do either of you have any good idea on how to group the breed? The problem right now is that breed information is too detailed and became useless to the predictive power when each category of the data is thin. Ideally, we want to create a new variable to group breed by certain characteristics, e.g. how active the breed is, how aggressive the breed is, etc. This could be potentially a burdensome one-time work load. 
+3. created new variables:
+          1) "mixed breed" based on if breed2==0 vs breed2 != 0
+          2) "no fee flag": if fee == 0 vs fee != 0
+4. need to check number of missing in variables: breed1, age, 
+5.  need 1% and 99% value for variables: age
+6. data quality check: 
+          1) any observation with color2 == 0 while color3 !=0
+          2) any observation with breed1 == 0 while breed2 != 0
+7. the correlation matrix is truncated in the jupyter, can you generate a full matrix?
