@@ -6,6 +6,12 @@ Project Proposal 2/23/19
 Domain chosen:
 Our domain is animal welfare. Millions of abandoned or lost animals end up in shelters. Many shelters are overcrowded, and some euthanize animals that aren’t adopted quickly. Studying adoption data may help shelters and rescue organizations connect with potential adopting homes more effectively, reducing needless animal suffering. 
 
+Kaggle:
+https://www.kaggle.com/c/petfinder-adoption-prediction
+
+Here's the requirements listed in the pdf file in our canvas:
+https://georgetown.instructure.com/courses/70335/files?preview=2287781
+
 Hypothesis or project topic:
 An algorithm can be made to predict animal adoption rates from traits in the animal’s online profile. These traits may include breed, color, gender, health, the quality of images, and the quality of descriptive text.
 
